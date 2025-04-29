@@ -5,3 +5,5 @@ En este proyecto, se puede visualizar una gráfica de dispersión entre la condi
 También se incluye una opción, mediante una casilla de verificación (checkbox), para generar un histograma que muestra la distribución de los tipos de carro.
 Finalmente, se incorpora un slider de doble extremo que actúa como filtro, permitiendo visualizar los modelos de carros disponibles dentro de un rango de precios determinado.
 En conjunto, estas herramientas permiten al usuario analizar la distribución y características de los vehículos disponibles de forma visual y dinámica.
+
+https://project-7-qexr.onrender.com
